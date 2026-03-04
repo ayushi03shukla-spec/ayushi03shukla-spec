@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Ayushi Shukla 👋
 
-<!--
-**ayushi03shukla-spec/ayushi03shukla-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Machine Learning Enthusiast  
+💻 Computer Science Student  
+🧠 Interested in Computer Vision & Intelligent Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Project
+
+### 🛣️ PotholeAI
+AI-powered road damage detection system using **CNN + Computer Vision**
+
+Features:
+- Detect potholes from road images
+- Severity classification
+- Real-time Streamlit dashboard
+- Firebase cloud database
+- GPS-based pothole mapping
+
+Tech Stack:
+Python • TensorFlow • Streamlit • Firebase • Computer Vision
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python
+- C++
+- JavaScript
+
+**AI / ML**
+- TensorFlow
+- CNN
+- Computer Vision
+
+**Web Development**
+- HTML
+- CSS
+- React
+- Node.js
+
+**Tools**
+- Git
+- GitHub
+- Streamlit
+- VS Code
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ayushi-shukla-aa9148278
