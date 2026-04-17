@@ -48,6 +48,23 @@ Python • TensorFlow • Streamlit • Firebase • Computer Vision
 - VS Code
 
 ---
+## 🚀 Featured Projects
+
+🔹 PotholeAI  
+AI-based road damage detection using CNN & Computer Vision  
+🔗 https://github.com/your-repo-link - (https://github.com/ayushi03shukla-spec/pothole-detector.git)
+
+🔹 GolfCharity Platform  
+A web platform for managing charity events  
+🔗 https://github.com/your-repo-link - (https://github.com/ayushi03shukla-spec/golf-charity-platform.git)
+
+🔹 Hero Animation Project  
+Modern UI animation-based frontend project  
+🔗 https://github.com/your-repo-link - (https://github.com/ayushi03shukla-spec/Scroll-Driven-Hero-Section-Animation.git) 
+
+🔹 Tindog  
+Responsive web app inspired by Tinder for dogs  
+🔗https://github.com/your-repo-link-(https://github.com/ayushi03shukla-spec/Tindog-Responsive-web-app-inspired-by-Tinder-for-dogs-.git)  
 
 ## 📫 Connect With Me
 
